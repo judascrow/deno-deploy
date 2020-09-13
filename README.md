@@ -1,4 +1,4 @@
-# deno-deploy
+# Deno Deploy
 
 ### Deploy on the server:
 
